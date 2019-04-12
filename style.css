@@ -943,6 +943,7 @@ footer {
     justify-content: space-between;
     align-items: center;
     padding-right: 40px;
+    z-index: 1;
 }
 footer .fab:before {
     color: #485563;

@@ -2,95 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2f3e265b-1e48-4e0f-8b46-cf83086523af" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Something Nothing.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/yvish.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Montserrat/Montserrat-Black.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Montserrat/Montserrat-BlackItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Montserrat/Montserrat-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Montserrat/Montserrat-BoldItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Montserrat/Montserrat-ExtraBold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Montserrat/Montserrat-ExtraBoldItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Montserrat/Montserrat-ExtraLight.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Montserrat/Montserrat-ExtraLightItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Montserrat/Montserrat-Italic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Montserrat/Montserrat-Light.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Montserrat/Montserrat-LightItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Montserrat/Montserrat-Medium.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Montserrat/Montserrat-MediumItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Montserrat/Montserrat-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Montserrat/Montserrat-SemiBold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Montserrat/Montserrat-SemiBoldItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Montserrat/Montserrat-Thin.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Montserrat/Montserrat-ThinItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Montserrat/OFL.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Open_Sans/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Open_Sans/OpenSans-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Open_Sans/OpenSans-BoldItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Open_Sans/OpenSans-ExtraBold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Open_Sans/OpenSans-ExtraBoldItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Open_Sans/OpenSans-Italic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Open_Sans/OpenSans-Light.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Open_Sans/OpenSans-LightItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Open_Sans/OpenSans-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Open_Sans/OpenSans-SemiBold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/Open_Sans/OpenSans-SemiBoldItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/airbag-regular-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/1280px-Coca-Cola_logo.svg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/1280px-Nokia_wordmark.svg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/15.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/293px-Intel-logo.svg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Dropbox_logo_(September_2013).svg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Ellis_Don-Mike_Armstrong-130x130px_circle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Mike_Simon_130x130px_circle_headshot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Zendesk_logo_RGB.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/adam.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/background2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/close.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/everaldo_coelho.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gryffindor.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/hufflepuff.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/menu9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ravenclaw.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/salazar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jquery-3.3.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/slick-1.8.1.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/slick/ajax-loader.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/slick/config.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/slick/fonts/slick.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/slick/fonts/slick.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/slick/fonts/slick.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/slick/fonts/slick.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/slick/slick-theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/slick/slick-theme.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/slick/slick-theme.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/slick/slick.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/slick/slick.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/slick/slick.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/slick/slick.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/slick/slick.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -109,8 +21,8 @@
           <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="459">
-                  <caret line="56" column="42" selection-start-line="56" selection-start-column="42" selection-end-line="56" selection-end-column="42" />
+                <state relative-caret-position="323">
+                  <caret line="48" column="33" lean-forward="true" selection-start-line="48" selection-start-column="33" selection-end-line="48" selection-end-column="33" />
                   <folding>
                     <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
                   </folding>
@@ -125,8 +37,8 @@
           <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/style.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="306">
-                  <caret line="18" column="16" lean-forward="true" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+                <state relative-caret-position="585">
+                  <caret line="945" column="14" selection-start-line="945" selection-start-column="14" selection-end-line="945" selection-end-column="14" />
                 </state>
               </provider>
             </entry>
@@ -254,15 +166,15 @@
       <workItem from="1554317281135" duration="2328000" />
       <workItem from="1554456853731" duration="98342000" />
       <workItem from="1554834747768" duration="758000" />
-      <workItem from="1555098969986" duration="277000" />
+      <workItem from="1555098969986" duration="903000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="139736000" />
+    <option name="totallyTimeSpent" value="140362000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1296" height="1000" extended-state="7" />
+    <frame x="1912" y="-8" width="1296" height="1000" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49943504" visible="true" weight="0.1484375" />
@@ -410,8 +322,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="56" column="42" selection-start-line="56" selection-start-column="42" selection-end-line="56" selection-end-column="42" />
+        <state relative-caret-position="323">
+          <caret line="48" column="33" lean-forward="true" selection-start-line="48" selection-start-column="33" selection-end-line="48" selection-end-column="33" />
           <folding>
             <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
           </folding>
@@ -420,8 +332,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="16" lean-forward="true" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+        <state relative-caret-position="585">
+          <caret line="945" column="14" selection-start-line="945" selection-start-column="14" selection-end-line="945" selection-end-column="14" />
         </state>
       </provider>
     </entry>
